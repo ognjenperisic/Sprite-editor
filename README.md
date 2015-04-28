@@ -5,11 +5,11 @@ The Sprite editor. It is a simple drawing program when I was in high school. I m
 
 <sub>
 Cursor is moved using the arrow keys
-
+<sub>
 Home - cursor
-
+<sub>
 End - clear screen
-
+<sub>
 Enter - draw a point
 
 Backspace - delete a point
