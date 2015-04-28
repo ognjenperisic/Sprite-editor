@@ -5,29 +5,29 @@ The Sprite editor. It is a simple drawing program when I was in high school. I m
 
 - Cursor is moved using the arrow keys
 
-- Home - cursor
+- *Home* - cursor
 
-*End - clear screen*
+- End - clear screen
 
-Enter - draw a point
+- Enter - draw a point
 
-Backspace - delete a point
+- Backspace - delete a point
 
-Insert - draw a line
+- Insert - draw a line
 
-Delete - delete a line
+- Delete - delete a line
 
-F1 - rotation around X axis
+- F1 - rotation around X axis
 
-F2 - rotation around Y axis
+- F2 - rotation around Y axis
 
-F3 - Inversed object
+- F3 - Inversed object
 
-F5 - Load object
+- F5 - Load object
 
-F9 - Save Object
+- F9 - Save Object
 
-Esc - exit
+- Esc - exit
 
 
 
