@@ -3,7 +3,8 @@ The Sprite editor. It is a simple drawing program when I was in high school. I m
 
 (As a side note. I had to play with DosBox to make this code running. Furthermore, had to play with Turbo Pascal 5.5 to compile the code. I thought it will take me an hour or so. It took me 3 hours. It's been 15 years since I used Pascal.)
 
-Cursor is moved using arrow keys
+<sub>
+Cursor is moved using the arrow keys
 
 Home - cursor
 
@@ -28,7 +29,7 @@ F5 - Load object
 F9 - Save Object
 
 Esc - exit
-
+</sub>
 
 
 ![Alt text](https://github.com/ognjenperisic/Sprite-editor/blob/screenshots/editor_003.png?raw=true "Starting screen")
