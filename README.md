@@ -6,16 +6,15 @@ The Sprite editor. It is a simple drawing program when I was in high school. I m
 <sub>
 Cursor is moved using the arrow keys
 </sub>
-
 <sub>
 Home - cursor
 </sub>
-
 <sub>
 End - clear screen
+</sub>
 <sub>
 Enter - draw a point
-
+</sub>
 Backspace - delete a point
 
 Insert - draw a line
