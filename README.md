@@ -1,5 +1,5 @@
 # Sprite-editor
-The Sprite editor. It is a very simple drawing program I made when I was in high school. I made it because I wanted to write a 2D video game. At that time I had a Hercules Graphic card (286/12MHz DOS machine with 1MB of RAM and 40 MB HDD) so the sprite editor is without colors.
+The Sprite editor. It is a very simple drawing program I made when I was in high school. I made it because I wanted to write a 2D video game. At that time I had a Hercules Graphic card (286/12MHz DOS machine with 1MB of RAM and 40 MB HDD) so the sprite editor has no colors (black & white).
 
 Programs screenshots are below.
 
