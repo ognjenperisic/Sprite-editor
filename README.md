@@ -3,7 +3,7 @@ The Sprite editor. It is a very simple drawing program I made when I was in high
 
 The screenshots from the editor are below.
 
-(As a side note. I had to play with DosBox to make this code running. Furthermore, had to install Turbo Pascal 5.5 to compile the code. It took me some time to finish everything. It's been quite some time since I used Pascal actively.)
+(As a side note. I had to play with DosBox to make this code running. Furthermore, had to install Turbo Pascal 5.5 to compile the code. It took me some time to finish everything. It's been quite some time since I actively used Turbo Pascal.)
 
 - The cursor is moved using the arrow keys
 - Home - cursor
